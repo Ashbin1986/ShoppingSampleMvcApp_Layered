@@ -1,0 +1,7 @@
+body { font-family: Segoe UI, Roboto, Arial; margin: 20px; }
+header { margin-bottom: 20px; }
+nav a { margin-right: 10px; }
+.alert { padding: 10px; background: #dff0d8; border: 1px solid #3c763d; margin-bottom: 10px; }
+table { border-collapse: collapse; width: 100%; }
+th, td { border: 1px solid #ddd; padding: 8px; }
+th { background-color: #f2f2f2; }
